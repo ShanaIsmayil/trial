@@ -21,21 +21,12 @@
 	position:absolute;
 	left:0px;
 	top:0px;
-}.e9_31 { 
-	width:422px;
-	height:87px;
-	position:absolute;
-	left:111px;
-	top:79px;
-	background-image:url(images/brownoutlogofinal_1.png);
-	background-repeat:no-repeat;
-	background-size:cover;
 }.e9_32 { 
 	color:rgba(255, 255, 255, 1);
 	width:65px;
 	height:28px;
 	position:absolute;
-	left:1489px;
+	left:1627px;
 	top:51px;
 	font-family:Roboto;
 	text-align:left;
@@ -58,7 +49,7 @@
 	height:393px;
 	position:absolute;
 	left:101px;
-	top:270px;
+	top:264px;
 	font-family:Nunito;
 	text-align:left;
 	font-size:96px;
@@ -74,15 +65,36 @@
 	text-align:left;
 	font-size:24px;
 	letter-spacing:0;
-}.e9_36 { 
+}.e12_45 { 
 	color:rgba(255, 255, 255, 1);
-	width:60px;
-	height:28px;
+	width:74px;
+	height:35px;
 	position:absolute;
-	left:1627px;
-	top:50px;
+	left:1254px;
+	top:711px;
 	font-family:Roboto;
 	text-align:left;
-	font-size:24px;
+	font-size:30px;
 	letter-spacing:0;
+}.e12_40 { 
+	width:445px;
+	height:83px;
+	position:absolute;
+	left:101px;
+	top:79px;
+	background-image:url(images/b1white_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.12_42 { 
+	border:3px solid rgba(255, 255, 255, 1);
+}.e12_42 { 
+	width:264px;
+	height:94px;
+	position:absolute;
+	left:1159px;
+	top:681px;
+	border-top-left-radius:70px;
+	border-top-right-radius:70px;
+	border-bottom-left-radius:70px;
+	border-bottom-right-radius:70px;
 }
