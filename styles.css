@@ -1,25 +1,88 @@
-.301_52 { 
+.9_30 { 
 	overflow:hidden;
-}.e301_52 { 
+}.e9_30 { 
+	background-color:rgba(246.0000005364418, 247.00000047683716, 252.00000017881393, 0.8999999761581421);
 	width:1920px;
-	height:400px;
+	height:1080px;
 	position:absolute;
-}.e301_53 { 
-	background-color:rgba(21.887500025331974, 25.341524183750153, 51.00000075995922, 1);
+}.e9_38 { 
+	width:1969px;
+	height:1097px;
+	position:absolute;
+	left:-34px;
+	top:1px;
+	background-image:url(images/_downloader_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e9_39 { 
+	background-color:rgba(0, 0, 0, 0.6000000238418579);
 	width:1920px;
-	height:400px;
+	height:1109px;
 	position:absolute;
 	left:0px;
 	top:0px;
-}.e301_54 { 
-	color:rgba(247.00000047683716, 247.00000047683716, 247.00000047683716, 1);
-	width:170px;
-	height:220.22998046875px;
+}.e9_31 { 
+	width:422px;
+	height:87px;
 	position:absolute;
-	left:224px;
-	top:90px;
-	font-family:Montserrat;
+	left:111px;
+	top:79px;
+	background-image:url(images/brownoutlogofinal_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e9_32 { 
+	color:rgba(255, 255, 255, 1);
+	width:65px;
+	height:28px;
+	position:absolute;
+	left:1489px;
+	top:51px;
+	font-family:Roboto;
 	text-align:left;
-	font-size:28px;
+	font-size:24px;
+	letter-spacing:0;
+}.e9_33 { 
+	color:rgba(250.75000405311584, 241.34687662124634, 241.34687662124634, 1);
+	width:824px;
+	height:121px;
+	position:absolute;
+	left:111px;
+	top:704px;
+	font-family:Nunito;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}.e9_34 { 
+	color:rgba(255, 255, 255, 1);
+	width:965px;
+	height:393px;
+	position:absolute;
+	left:101px;
+	top:270px;
+	font-family:Nunito;
+	text-align:left;
+	font-size:96px;
+	letter-spacing:0;
+}.e9_35 { 
+	color:rgba(255, 255, 255, 1);
+	width:116px;
+	height:28px;
+	position:absolute;
+	left:1752px;
+	top:51px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}.e9_36 { 
+	color:rgba(255, 255, 255, 1);
+	width:60px;
+	height:28px;
+	position:absolute;
+	left:1627px;
+	top:50px;
+	font-family:Roboto;
+	text-align:left;
+	font-size:24px;
 	letter-spacing:0;
 }
