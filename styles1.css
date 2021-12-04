@@ -1,0 +1,55 @@
+.9_30 { 
+	overflow:hidden;
+}.e9_30 { 
+	background-color:rgba(246.0000005364418, 247.00000047683716, 252.00000017881393, 0.8999999761581421);
+	width:1920px;
+	height:1080px;
+	position:absolute;
+}.e9_38 { 
+	width:1969px;
+	height:1097px;
+	position:absolute;
+	left:-34px;
+	top:1px;
+	background-image:url(images/_downloader_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}.e9_39 { 
+	background-color:rgba(0, 0, 0, 0.6000000238418579);
+	width:1920px;
+	height:1109px;
+	position:absolute;
+	left:0px;
+	top:0px;
+}.e9_33 { 
+	color:rgba(250.75000405311584, 241.34687662124634, 241.34687662124634, 1);
+	width:824px;
+	height:121px;
+	position:absolute;
+	left:111px;
+	top:704px;
+	font-family:Nunito;
+	text-align:left;
+	font-size:24px;
+	letter-spacing:0;
+}.e9_34 { 
+	color:rgba(255, 255, 255, 1);
+	width:965px;
+	height:393px;
+	position:absolute;
+	left:101px;
+	top:264px;
+	font-family:Nunito;
+	text-align:left;
+	font-size:96px;
+	letter-spacing:0;
+}.e12_40 { 
+	width:445px;
+	height:83px;
+	position:absolute;
+	left:101px;
+	top:79px;
+	background-image:url(images/b1white_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
